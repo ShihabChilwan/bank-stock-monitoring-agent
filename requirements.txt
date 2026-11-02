@@ -1,0 +1,10 @@
+langgraph>=1.0
+langchain>=1.0
+langchain-ollama>=1.0
+yfinance
+pandas
+numpy
+python-dotenv
+python-crontab
+streamlit
+pytest
